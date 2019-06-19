@@ -14,7 +14,7 @@ namespace DiscordBot.Resources.Database
         protected override void OnConfiguring(DbContextOptionsBuilder Options)
         {
             string DbLocation = Assembly.GetEntryAssembly().Location.Replace(@"bin\Debug\netcoreapp2.1",@"Data\Database.sqlite");
-            Options.UseSqlite("Data Source= " + DbLocation);
+            Options.UseSqlite($"Data Source={DbLocation}Database.sqlite");
             
         }
     }

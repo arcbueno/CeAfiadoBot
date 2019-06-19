@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa8f8660-864b-4fe5-913d-4a664a331138" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DiscordBot/Core/Currency/Stoneses.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscordBot/Core/Data/Data.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscordBot/DiscordBot.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DiscordBot/DiscordBot.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscordBot/Migrations/20190618200144_Migrations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DiscordBot/Migrations/20190618200144_Migrations.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscordBot/Resources/Database/SQLiteContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DiscordBot/Resources/Database/SQLiteContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscordBot/bin/Debug/netcoreapp2.1/DiscordBot.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DiscordBot/bin/Debug/netcoreapp2.1/DiscordBot.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscordBot/bin/Debug/netcoreapp2.1/DiscordBot.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DiscordBot/bin/Debug/netcoreapp2.1/DiscordBot.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscordBot/obj/Debug/netcoreapp2.1/DiscordBot.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DiscordBot/obj/Debug/netcoreapp2.1/DiscordBot.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscordBot/obj/Debug/netcoreapp2.1/DiscordBot.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DiscordBot/obj/Debug/netcoreapp2.1/DiscordBot.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscordBot/obj/Debug/netcoreapp2.1/DiscordBot.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DiscordBot/obj/Debug/netcoreapp2.1/DiscordBot.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DiscordBot/Resources/Database/SQLiteContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+              <folding>
+                <marker date="1560957186247" expanded="true" signature="6:128" ph="..." />
+                <marker date="1560957186247" expanded="true" signature="170:599" ph="{...}" />
+                <marker date="1560957186247" expanded="true" signature="215:597" ph="{...}" />
+                <marker date="1560957186247" expanded="true" signature="353:591" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DiscordBot/Core/Currency/Stoneses.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="730">
+              <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+              <folding>
+                <marker date="1560970128923" expanded="true" signature="6:121" ph="..." />
+                <marker date="1560970128923" expanded="true" signature="157:2116" ph="{...}" />
+                <marker date="1560970128923" expanded="true" signature="221:2114" ph="{...}" />
+                <marker date="1560970128923" expanded="true" signature="337:2108" ph="{...}" />
+                <marker date="1560970128923" expanded="true" signature="434:639" ph="{...}" />
+                <marker date="1560970128923" expanded="true" signature="757:2098" ph="{...}" />
+                <marker date="1560970128923" expanded="true" signature="875:1048" ph="{...}" />
+                <marker date="1560970128923" expanded="true" signature="1080:1236" ph="{...}" />
+                <marker date="1560970128923" expanded="true" signature="1270:1463" ph="{...}" />
+                <marker date="1560970128923" expanded="true" signature="1595:1768" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DiscordBot/Core/Data/Data.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+              <folding>
+                <marker date="1560969353980" expanded="true" signature="6:85" ph="..." />
+                <marker date="1560969353980" expanded="true" signature="117:1400" ph="{...}" />
+                <marker date="1560969353980" expanded="true" signature="149:1398" ph="{...}" />
+                <marker date="1560969353980" expanded="true" signature="207:574" ph="{...}" />
+                <marker date="1560969353980" expanded="true" signature="286:564" ph="{...}" />
+                <marker date="1560969353980" expanded="true" signature="370:436" ph="{...}" />
+                <marker date="1560969353980" expanded="true" signature="647:1392" ph="{...}" />
+                <marker date="1560969353980" expanded="true" signature="726:1382" ph="{...}" />
+                <marker date="1560969353980" expanded="true" signature="810:1050" ph="{...}" />
+                <marker date="1560969353980" expanded="true" signature="905:1009" ph="{...}" />
+                <marker date="1560969353980" expanded="true" signature="1071:1314" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DiscordBot/Resources/Database/Stones.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+              <folding>
+                <marker date="1560880240473" expanded="true" signature="85:223" ph="{...}" />
+                <marker date="1560880240473" expanded="true" signature="111:221" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DiscordBot/Migrations/20190618200144_Migrations.cs">
+          <provider editor-type-id="WinFormsEditor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="88" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="88" />
+              <folding>
+                <marker date="1560956198548" expanded="true" signature="80:937" ph="{...}" />
+                <marker date="1560956198548" expanded="true" signature="171:935" ph="{...}" />
+                <marker date="1560956198548" expanded="true" signature="247:761" ph="{...}" />
+                <marker date="1560956198548" expanded="true" signature="388:606" ph="{...}" />
+                <marker date="1560956198548" expanded="true" signature="662:749" ph="{...}" />
+                <marker date="1560956198548" expanded="true" signature="834:929" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DiscordBot/Resources/Database/SQLiteContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiscordBot/Core/Currency/Stoneses.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiscordBot/Resources/Database/Stones.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiscordBot/Core/Data/Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiscordBot/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiscordBot/Core/Commands/HelloWorld.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiscordBot/Core/Moderation/Backdoor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiscordBot/Migrations/20190618200144_Migrations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiscordBot/Migrations/20190618200144_Migrations.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiscordBot/Migrations/SQLiteContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DiscordBot/Data/Bot.txt" />
+        <option value="$PROJECT_DIR$/DiscordBot/Core/Commands/HelloWorld.cs" />
+        <option value="$PROJECT_DIR$/DiscordBot/Core/Moderation/Backdoor.cs" />
+        <option value="$PROJECT_DIR$/DiscordBot/Program.cs" />
+        <option value="$PROJECT_DIR$/DiscordBot/Resources/Database/Stones.cs" />
+        <option value="$PROJECT_DIR$/DiscordBot/Migrations/20190618200144_Migrations.cs" />
+        <option value="$PROJECT_DIR$/DiscordBot/Resources/Database/SQLiteContext.cs" />
+        <option value="$PROJECT_DIR$/DiscordBot/Core/Currency.cs" />
+        <option value="$PROJECT_DIR$/DiscordBot/Core/Data/Data.cs" />
+        <option value="$PROJECT_DIR$/DiscordBot/Core/Currency/Stoneses.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Commands" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Currency" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Data" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Moderation" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Data" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Migrations" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Migrations" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="20190618200144_Migrations.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Resources" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DiscordBot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Resources" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Database" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name=" DiscordBot" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DiscordBot/bin/Debug/netcoreapp2.1/DiscordBot.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DiscordBot" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DiscordBot/DiscordBot.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa8f8660-864b-4fe5-913d-4a664a331138" name="Default Changelist" comment="" />
+      <created>1560387593549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560387593549</updated>
+      <workItem from="1560387697591" duration="572000" />
+      <workItem from="1560517451132" duration="12794000" />
+      <workItem from="1560546915392" duration="224000" />
+      <workItem from="1560547386638" duration="5638000" />
+      <workItem from="1560869315991" duration="773000" />
+      <workItem from="1560870606098" duration="7836000" />
+      <workItem from="1560887822976" duration="9614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37451000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1579743" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24210526" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932332" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.30526316" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32932332" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32932332" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32932332" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32932332" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32932332" />
+      <window_info anchor="right" id="Designer Toolbox" side_tool="true" weight="0.32955405" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Data/Token.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/DiscordBot.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="42" column="142" selection-start-line="42" selection-start-column="116" selection-end-line="42" selection-end-column="142" />
+          <folding>
+            <marker date="1560879857919" expanded="true" signature="6:168" ph="..." />
+            <marker date="1560879857919" expanded="true" signature="191:2554" ph="{...}" />
+            <marker date="1560879857919" expanded="true" signature="211:2552" ph="{...}" />
+            <marker date="1560879857919" expanded="true" signature="453:1442" ph="{...}" />
+            <marker date="1560879857919" expanded="true" signature="530:575" ph="{...}" />
+            <marker date="1560879857919" expanded="true" signature="652:773" ph="{...}" />
+            <marker date="1560879857919" expanded="true" signature="1282:1329" ph="{...}" />
+            <marker date="1560879857919" expanded="true" signature="1501:1607" ph="{...}" />
+            <marker date="1560879857919" expanded="true" signature="1658:1769" ph="{...}" />
+            <marker date="1560879857919" expanded="true" signature="1848:2546" ph="{...}" />
+            <marker date="1560879857919" expanded="true" signature="2364:2526" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Core/Moderation/Backdoor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1560877752137" expanded="true" signature="6:179" ph="..." />
+            <marker date="1560877752137" expanded="true" signature="217:1754" ph="{...}" />
+            <marker date="1560877752137" expanded="true" signature="280:1752" ph="{...}" />
+            <marker date="1560877752137" expanded="true" signature="406:1746" ph="{...}" />
+            <marker date="1560877752137" expanded="true" signature="496:652" ph="{...}" />
+            <marker date="1560877752137" expanded="true" signature="844:1251" ph="{...}" />
+            <marker date="1560877752137" expanded="true" signature="878:988" ph="{...}" />
+            <marker date="1560877752137" expanded="true" signature="1024:1237" ph="{...}" />
+            <marker date="1560877752137" expanded="true" signature="1556:1656" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Core/Commands/HelloWorld.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+          <folding>
+            <marker date="1560871064391" expanded="true" signature="6:171" ph="..." />
+            <marker date="1560871064391" expanded="true" signature="208:1478" ph="{...}" />
+            <marker date="1560871064391" expanded="true" signature="273:1476" ph="{...}" />
+            <marker date="1560871064391" expanded="true" signature="400:487" ph="{...}" />
+            <marker date="1560871064391" expanded="true" signature="601:869" ph="{...}" />
+            <marker date="1560871064391" expanded="true" signature="644:751" ph="{...}" />
+            <marker date="1560871064391" expanded="true" signature="768:859" ph="{...}" />
+            <marker date="1560871064391" expanded="true" signature="996:1470" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Migrations/20190618200144_Migrations.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <marker date="1560888104118" expanded="false" signature="28:256" ph="..." />
+            <marker date="1560888104118" expanded="true" signature="289:1029" ph="{...}" />
+            <marker date="1560888104118" expanded="true" signature="404:1027" ph="{...}" />
+            <marker date="1560888104118" expanded="true" signature="486:1021" ph="{...}" />
+            <marker date="1560888104118" expanded="true" signature="726:976" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Migrations/SQLiteContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <marker date="1560888104122" expanded="false" signature="28:208" ph="..." />
+            <marker date="1560888104122" expanded="true" signature="241:962" ph="{...}" />
+            <marker date="1560888104122" expanded="true" signature="343:960" ph="{...}" />
+            <marker date="1560888104122" expanded="true" signature="419:954" ph="{...}" />
+            <marker date="1560888104122" expanded="true" signature="659:909" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Migrations/20190618200144_Migrations.cs">
+      <provider editor-type-id="WinFormsEditor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="88" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="88" />
+          <folding>
+            <marker date="1560956198548" expanded="true" signature="80:937" ph="{...}" />
+            <marker date="1560956198548" expanded="true" signature="171:935" ph="{...}" />
+            <marker date="1560956198548" expanded="true" signature="247:761" ph="{...}" />
+            <marker date="1560956198548" expanded="true" signature="388:606" ph="{...}" />
+            <marker date="1560956198548" expanded="true" signature="662:749" ph="{...}" />
+            <marker date="1560956198548" expanded="true" signature="834:929" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Core/Currency.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Resources/Database/SQLiteContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <marker date="1560957186247" expanded="true" signature="6:128" ph="..." />
+            <marker date="1560957186247" expanded="true" signature="170:599" ph="{...}" />
+            <marker date="1560957186247" expanded="true" signature="215:597" ph="{...}" />
+            <marker date="1560957186247" expanded="true" signature="353:591" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Resources/Database/Stones.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <marker date="1560880240473" expanded="true" signature="85:223" ph="{...}" />
+            <marker date="1560880240473" expanded="true" signature="111:221" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Core/Data/Data.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <folding>
+            <marker date="1560969353980" expanded="true" signature="6:85" ph="..." />
+            <marker date="1560969353980" expanded="true" signature="117:1400" ph="{...}" />
+            <marker date="1560969353980" expanded="true" signature="149:1398" ph="{...}" />
+            <marker date="1560969353980" expanded="true" signature="207:574" ph="{...}" />
+            <marker date="1560969353980" expanded="true" signature="286:564" ph="{...}" />
+            <marker date="1560969353980" expanded="true" signature="370:436" ph="{...}" />
+            <marker date="1560969353980" expanded="true" signature="647:1392" ph="{...}" />
+            <marker date="1560969353980" expanded="true" signature="726:1382" ph="{...}" />
+            <marker date="1560969353980" expanded="true" signature="810:1050" ph="{...}" />
+            <marker date="1560969353980" expanded="true" signature="905:1009" ph="{...}" />
+            <marker date="1560969353980" expanded="true" signature="1071:1314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiscordBot/Core/Currency/Stoneses.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+          <folding>
+            <marker date="1560970128923" expanded="true" signature="6:121" ph="..." />
+            <marker date="1560970128923" expanded="true" signature="157:2116" ph="{...}" />
+            <marker date="1560970128923" expanded="true" signature="221:2114" ph="{...}" />
+            <marker date="1560970128923" expanded="true" signature="337:2108" ph="{...}" />
+            <marker date="1560970128923" expanded="true" signature="434:639" ph="{...}" />
+            <marker date="1560970128923" expanded="true" signature="757:2098" ph="{...}" />
+            <marker date="1560970128923" expanded="true" signature="875:1048" ph="{...}" />
+            <marker date="1560970128923" expanded="true" signature="1080:1236" ph="{...}" />
+            <marker date="1560970128923" expanded="true" signature="1270:1463" ph="{...}" />
+            <marker date="1560970128923" expanded="true" signature="1595:1768" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

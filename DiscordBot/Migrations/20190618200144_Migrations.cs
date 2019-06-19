@@ -2,7 +2,7 @@
 
 namespace DiscordBot.Migrations
 {
-    public partial class Migrations : Migration
+    public partial class Migrations : Microsoft.EntityFrameworkCore.Migrations.Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
